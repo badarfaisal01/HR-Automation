@@ -1,0 +1,22 @@
+# Python virtual environment
+venv/
+.venv/
+
+# Google credentials and tokens
+credentials.json
+service_account.json
+token.json
+token.pickle
+
+# PyCharm/IDE
+.idea/
+.vscode/
+
+# Cache and temporary files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+*.xlsx
+*.DS_Store

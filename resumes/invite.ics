@@ -1,0 +1,52 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:REQUEST
+BEGIN:VTIMEZONE
+TZID:Asia/Karachi
+X-LIC-LOCATION:Asia/Karachi
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:GMT+5
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Karachi:20250618T110000
+DTEND;TZID=Asia/Karachi:20250618T113000
+DTSTAMP:20250615T122252Z
+ORGANIZER;CN=GalvanAI Solutions:mailto:galvanaisolutions@gmail.com
+UID:n8imq424uvv6mo2nqelbkj6rps@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE
+ ;CN=GalvanAI Solutions;X-NUM-GUESTS=0:mailto:galvanaisolutions@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=badarfaisal98@gmail.com;X-NUM-GUESTS=0:mailto:badarfaisal98@gmail.c
+ om
+X-GOOGLE-CONFERENCE:https://meet.google.com/rde-iemp-bvc
+X-MICROSOFT-CDO-OWNERAPPTID:-2117831274
+CREATED:20250615T122246Z
+DESCRIPTION:Event Name\nInternship Interview - Technical Round - GalvanAI\n
+ \nTechnical interview for the Galvan AI Internship Program. Please be prepa
+ red to discuss your submitted task\, technical skills\, and problem-solving
+  approach. This is a 20–30 minute video call.\n\n\n\n\nLocation: This is a 
+ Google Meet web conference.\nYou can join this meeting from your computer\,
+  tablet\, or smartphone.\nhttps://calendly.com/events/2c4def0f-8970-4262-88
+ 0c-27d7634dbd99/google_meet\n\nNeed to make changes to this event?\nCancel:
+  https://calendly.com/cancellations/4b4b89c6-4334-4c22-9075-dec62ca13982\nR
+ eschedule: https://calendly.com/reschedulings/4b4b89c6-4334-4c22-9075-dec62
+ ca13982\n\nPowered by Calendly.com\n\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-\nJoin with Google Meet
+ : https://meet.google.com/rde-iemp-bvc\n\nLearn more about Meet at: https:/
+ /support.google.com/a/users/answer/9282720\n\nPlease do not edit this secti
+ on.\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:
+ ~:~:~:~:~::~:~::-
+LAST-MODIFIED:20250615T122250Z
+LOCATION:Google Meet (instructions in description)
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Badar Faisal and Galvan AI
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR
